@@ -10,3 +10,6 @@ Add ideas that would be great Additions
 - Controller Support
 - Collision with Ships
 
+-Entry screen
+-Pause and replay
+
